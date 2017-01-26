@@ -5,12 +5,23 @@ date:   2016-09-03 18:19:50 +0545
 categories: blog
 ---
 
-#Before I Met GIT
+## Before I Met GIT
 
 There used to be a time when I didn't know a thing about git. I also didn't know why version controls were needed projects. In those days I only used to write small codes which does simple things. Those codes were quite easy to maintain. Slowly I started writing codes for complex(compared to my previous programs) projects. I started to feel that those codes were hard to maintain. Before I add new things in the project I need to manually make a copy of the project as a backup. There were high chances that I would mess up those code make my life a living hell. My folder containing the project would look something like this.
 
-This confused me a lot. Sometimes I used to forget in which copy my latest changes were on. Then I started using time-stamps on the name of the copy of the project folders. This made my life a litter better but number of copy of backup folders increased in such a way that it started getting out of hand filling the hard disk of my computer.
+This confused me a lot. Sometimes I used to forget in which copy my latest changes were and which were the unwanted copy. Then I started using time-stamps on the name of the copy of the project folders. This made my life a litter better but number of copy of backup folders increased in such a way that it started getting out of hand filling the hard disk of my computer.
+
+## When I Met GIT
+
+When I met git, I thought it was a weird piece of software. When I first heard of it, it sounded like *गीत*('Song' in Nepali language). There is a meme "why is git popular in Nepal?"
+
+The commands were weird to me. I had some idea about command line tools back then, but I was not used to it as I used GUI most of the time. I tied the GUI version of git but it made little sense to me. I learned Git repository hosting service like [github] exists. I used the command line version once or twice and forget about it. After a long time while I was doing one of my high-school project I remembered about git and decided to use it in my project. I used git just to push the project to github as I was loosing previous projects files due to frequent formatting of my PC and other reasons. Sometimes I feel that if I had used git in my early projects, they would still be with me. Anyway, since I only used git just to push my code to github there only used to be one or two commits in my projects as I only used to commit at the end of the projects.
+
+
+## Now
+
+Now, I use git in almost in all my projects and store them in remote repository sites. I commit frequently, even for small changes. I no longer need to manually make unwanted copies of my projects.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[github]:   https://github.com/
 [jekyll-talk]: https://talk.jekyllrb.com/
