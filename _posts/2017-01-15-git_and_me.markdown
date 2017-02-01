@@ -10,7 +10,7 @@ Git is a strong version control tool that can make the programming life much eas
 ## Before I Met GIT
 
 There used to be a time when I didn't know a thing about git. I also didn't know why version controls were needed projects. In those days I only used to write small codes which does simple things. Those codes were quite easy to maintain. Slowly I started writing codes for complex(compared to my previous programs) projects. I started to feel that those codes were hard to maintain. Before I add new things in the project I need to manually make a copy of the project about:startpageas a backup. There were high chances that I would mess up those code make my life a living hell. My folder containing the project would look something like this:
-![before git](https://github.com/lastab/lastab.github.io/blob/gh-pages/images/before%20git.png?raw=true){:class="img-responsive img"}
+![before git](https://github.com/lastab/lastab.github.io/blob/gh-pages/images/before%2https://github.com/lastab/lastab.github.io/blob/gh-pages/images/why%20is%20git%20popular%20in%20nepal%20meme.png?raw=true0git.png?raw=true){:class="img-responsive img"}
 
 This confused me a lot. Sometimes I used to forget in which copy my latest changes were and which were the unwanted copy. Sometimes the file name wouldn't make any sense to me. Just by reading the file name, it would be hard to understand why I created the copy or what difference the copy holds compared to other copies. Then I started using time-stamps on the name of the copy of the project folders. This made my life a litter better but number of copy of backup folders increased in such a way that it started getting out of hand filling the hard disk of my computer.
 
