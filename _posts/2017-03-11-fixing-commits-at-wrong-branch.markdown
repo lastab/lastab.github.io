@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git (Fixing Commit(s) At Wrong Branch)"
+title:  "Git (Fixing Commit At Wrong Branch)"
 date:   2017-03-11 18:19:50 +0545
 categories: blog
 ---
