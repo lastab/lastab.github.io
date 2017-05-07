@@ -3,6 +3,8 @@ layout: post
 title:  "Git and Me"
 date:   2017-01-15 18:19:50 +0545
 categories: blog
+meta_keywords: git-and-me git-experience git-firsttime
+meta_description: git and me
 ---
 
 Git is a strong version control tool that can make the programming life much easier to manage. I have been using git for a while now. It had made my programming life a lot easier.

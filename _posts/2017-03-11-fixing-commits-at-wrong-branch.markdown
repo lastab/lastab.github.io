@@ -3,6 +3,8 @@ layout: post
 title:  "Git (Fixing Commits At Wrong Branch)"
 date:   2017-03-11 18:19:50 +0545
 categories: blog
+meta_keywords: git-and-me git-experience git-firsttime
+meta_description: git and me
 ---
 
 There are great chances of making mistakes while committing our changes in git. One of the common mistake that we might make is that we might commit in wrong branch.
