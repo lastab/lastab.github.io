@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "Git and Me"
 date:   2017-01-15 18:19:50 +0545
 categories: blog
