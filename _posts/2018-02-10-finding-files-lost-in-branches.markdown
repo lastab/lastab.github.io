@@ -30,7 +30,7 @@ Here,
 
 
 Sample output in my project when search text is '_lost_'
-``refs/heads/experience-withi3-desktop-environment :
+> ``refs/heads/experience-withi3-desktop-environment :
 refs/heads/finding-files-lost-in-branches :
 _posts/2018-02-10-finding-files-lost-in-branches.markdown
 refs/heads/gh-pages :
