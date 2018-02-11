@@ -21,7 +21,7 @@ The scipt can be something like:
 done``
 
 
-Here ,
+Here,
 - `git for-each-ref --format="%(refname)" refs/heads` lists all the refname of each branches present in your local repo.
 - ``for branch in `git for-each-ref --format="%(refname)" refs/heads`` does the loop and puts each refname in `$branch`
 - `echo $(branch )` prints the name of branch
